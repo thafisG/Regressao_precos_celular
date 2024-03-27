@@ -1,2 +1,5 @@
-# Entendendo Dados com o objetivo de estudar sobre mapas de calor, countplot, boxplot e regressão linear
-### Foi utilizado no projeto um conjunto de Dados retirado do kaggle
+# Regressão Linear 
+No projeto foi utilizado o conjunto de Dados "Mobile Price Classification" retirado do kaggle
+
+Bibliotecas usadas: 
+- pandas, matplotlib.pyplot, plotly, sklearn e seaborn  
